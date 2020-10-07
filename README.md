@@ -1,2 +1,2 @@
-# simon-1
-A vintage Simon Game Prototype
+# Rememberance
+A vintage Simon Game Prototype with a children friendly UI
