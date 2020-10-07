@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: rgb(129,129,129);
 }
 footer {
   margin-top: 1%;
@@ -49,19 +49,23 @@ footer {
 }
 
 .red {
-  background-color: red;
+  background-image: url('dog.jpg');
+  background-size:cover;
 }
 
 .green {
-  background-color: green;
+  background-image: url('lion.jpeg');
+  background-size:cover;
 }
 
 .blue {
-  background-color: blue;
+  background-image: url('tiger.jpeg');
+  background-size:cover;
 }
 
 .yellow {
-  background-color: yellow;
+  background-image: url('lizard.jpg');
+  background-size:cover;
 }
 
 .pressed {
