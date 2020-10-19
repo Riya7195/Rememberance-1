@@ -9,4 +9,4 @@ https://riya7195.github.io/Rememberance-1/
 
 ## How does this application looks??
 
-![]()
+![](screen-capture.gif)
